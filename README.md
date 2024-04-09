@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/sampurna__karkee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sampurna__karkee" height="30" width="40" /></a>
 <a href="https://discord.gg/xgVg5ruAUD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xgVg5ruAUD" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sampurna-kc-21b217282/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&psig=AOvVaw2PYk7ovO2s0rz-YZGgDiYZ&ust=1712766182436000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICc6LXFtYUDFQAAAAAdAAAAABAE" alt="xgVg5ruAUD" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sampurna-kc-21b217282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampurna kc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
