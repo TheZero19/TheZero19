@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sampurna KC</h1>
-<h3 align="center">Just a guy who writes bugs and tries to convert them to usable codes.</h3>
+<h3 align="center">Game Programmer, Graduated with BE in Computer Engineering</h3>
 
-- 🌱 I’m currently learning **Unity Engine**
+- 🌱 I make games with **Unity Engine**
 
 - 📝 I used to write articles (especially academic) on [https://sampurnakc01.blogspot.com/](https://sampurnakc01.blogspot.com/)
 
