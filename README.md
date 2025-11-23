@@ -3,9 +3,9 @@
 
 - 🌱 I make games with **Unity Engine**
 
-- 📝 I used to write articles (especially academic) on [https://sampurnakc01.blogspot.com/](https://sampurnakc01.blogspot.com/)
+- 📝 I am learning to draw.
 
-- ⚡ Fun fact **I love music and video games.**
+- ⚡ Fun fact **Sometimes, I like to sing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
