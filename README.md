@@ -16,19 +16,19 @@
 
 <h4 align="left">I am known for:</h3>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="csharp"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Unity-white?style=flat&logo=unity&logoColor=black" alt="unity" height="30"/>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="unity"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
 </p>
