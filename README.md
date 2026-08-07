@@ -2,8 +2,7 @@
 <h4 align="center">Game developer, BE in Computer Engineering.</h4>
 
 - 🌱 I make games mostly with Unity Engine.
-- ✨ I like niche stuffs which most find boring.
-- 📝 I am learning more about clean coding practices, mostly related to C#.
+- 📝 I am learning to draw and do VFXs.
 - ⚡ Fun fact: Sometimes I sing.
 
 <h4 align="left">Connect with me:</h4>
@@ -13,7 +12,7 @@
 <a href="https://linkedin.com/in/sampurna-kc-21b217282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sampurna kc" height="25" width="30" /></a>
 </p>
 
-<h4 align="left">I am known for:</h4>
+<h4 align="left">My tech stack:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="csharp"/>
