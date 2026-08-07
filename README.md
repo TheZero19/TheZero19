@@ -1,10 +1,10 @@
 <h2 align="center">Hello, I'm Sampurna KC</h2>
 <h4 align="center">Game developer, BE in Computer Engineering.</h4>
 
-- 🌱 I make games mostly with **Unity Engine**
+- 🌱 I make games mostly with Unity Engine.
 - ✨ I like niche stuffs which most find boring.
 - 📝 I am learning more about clean coding practices, mostly related to C#.
-- ⚡ Fun fact: **Sometimes I sing.**
+- ⚡ Fun fact: Sometimes I sing.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
