@@ -22,8 +22,20 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black" alt="unity"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="firebase"/>
+  </a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="cplusplus"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma"/>
+  </a>
+  <a href="https://krita.org/" target="_blank" rel="noreferrer" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Krita-3BABFF?style=flat&logo=krita&logoColor=white" alt="krita"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/>
